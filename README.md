@@ -9,7 +9,6 @@
 - The original project Github repo is [Here](https://github.com/amirho3einsedaghati/Flight-Management-Dashboard).
 
 
-
 ##  :beginner: About
 Add a detailed introduction about the project here, everything you want the reader to know.
 
