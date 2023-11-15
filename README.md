@@ -1,10 +1,10 @@
 # Flight_Delay
 
-Flight Arrival Time Prediction using a Stacked Model
+## Project A : Flight Arrival Time Prediction using a Stacked Model
 
-This project derives from a kaggle project by Amir Hosein Sedaghati.
+- Project_A derives from a kaggle project by Amir Hosein Sedaghati.
 
-The original project is [Here](https://www.kaggle.com/code/amirhoseinsedaghati/arrival-time-prediction-using-a-stacked-model#Conclusion).
+- The original project is [Here](https://www.kaggle.com/code/amirhoseinsedaghati/arrival-time-prediction-using-a-stacked-model#Conclusion).
 
 
 # Introduction
